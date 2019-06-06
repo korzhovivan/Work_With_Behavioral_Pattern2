@@ -1,0 +1,20 @@
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\bin\Debug\CryptoTraider.exe.config
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\bin\Debug\CryptoTraider.exe
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\bin\Debug\CryptoTraider.pdb
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.csprojAssemblyReference.cache
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.Form1.resources
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.Properties.Resources.resources
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.csproj.GenerateResource.cache
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.csproj.CoreCompileInputs.cache
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.exe
+C:\Users\Teather\Documents\Visual Studio 2017\Projects\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.pdb
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\bin\Debug\CryptoTraider.exe.config
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\bin\Debug\CryptoTraider.exe
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\bin\Debug\CryptoTraider.pdb
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.Form1.resources
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.Properties.Resources.resources
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.csproj.GenerateResource.cache
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.csproj.CoreCompileInputs.cache
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.exe
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.pdb
+C:\Users\PKO\Desktop\CryptoTraider\CryptoTraider\obj\Debug\CryptoTraider.csprojAssemblyReference.cache
